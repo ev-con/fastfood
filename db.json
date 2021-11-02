@@ -1,0 +1,24 @@
+{
+	"fastfoods":[
+		{
+			"id": 0,
+			"name": "Allo tikki",
+			"restaurant":"Burger King",
+			"web": "https://www.burgerking.com",
+			"description":"Masala potato in burger",
+			"ingredients": ["Garam Masala", "Hill Potatato","Burger Bun", "Chilli Powder", "Rock salt", "Butter", "Tomato", "Onion"],
+			"address": [
+				{
+					"addressid": "0",
+					"number": "75",
+					"lane2": "Gali Number 9, Near Shiv Murti, Goyla Dairy",
+					"lane1": "Near joshi departmental store",
+					"pincode":"110071",
+					"district":"South-West Delhi",
+					"state": "Delhi",
+					"country": "India"
+				}
+			]
+		}
+	]
+}
